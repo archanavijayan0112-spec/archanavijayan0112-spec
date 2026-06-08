@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**archanavijayan0112-spec/archanavijayan0112-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Archana Vijayan**, a Computer Science Engineering graduate from India.
 
-Here are some ideas to get you started:
+I enjoy building software, learning new technologies, and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python
+- C++
+- Flask
+- MySQL
+- Linux
+- Git & GitHub
+
+### Currently
+- 🌱 Learning Full Stack Development
+- 💼 Looking for Software Engineer opportunities
+- 🚀 Building personal projects
+
+### Contact
+📧 your.email@example.com  
+💼 LinkedIn: your-linkedin-profile
+
+### Fun Fact
+🍛 Biryani is my favorite food.
