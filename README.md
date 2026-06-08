@@ -17,9 +17,6 @@ I enjoy building software, learning new technologies, and solving problems throu
 - 💼 Looking for Software Engineer opportunities
 - 🚀 Building personal projects
 
-### Contact
-📧 your.email@example.com  
-💼 LinkedIn: your-linkedin-profile
 
 ### Fun Fact
 🍛 Biryani is my favorite food.
