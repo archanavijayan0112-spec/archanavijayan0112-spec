@@ -18,7 +18,4 @@ I enjoy building software, learning new technologies, and solving problems throu
 - 🚀 Building personal projects
 
 
-### Fun Fact
-🍛 Biryani is my favorite food.
-
 
